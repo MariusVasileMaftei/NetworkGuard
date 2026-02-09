@@ -15,10 +15,3 @@ Ensure you have Python 3.x installed. No external libraries are strictly require
 Run the script from the terminal by providing a target IP:
 ```bash
 python3 network_guard.py <remote_ip>
-
-INTERFACE       | IP ADDRESS      | MAC ADDRESS          | NETWORK
---------------------------------------------------------------------------------
-eth0            | 192.168.1.199   | 40:16:7e:ae:e8:d1    | 192.168.1.0
-vmnet8          | 192.168.199.1   | 00:50:56:c0:00:08    | 192.168.199.0
-
-
