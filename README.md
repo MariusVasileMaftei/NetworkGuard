@@ -9,7 +9,8 @@ A lightweight Python tool for automated network reconnaissance and local system 
 - **Data Parsing**: Uses Regex to extract structured network data from raw `ip addr` output.
 
 ## Installation
-Ensure you have Python 3.x installed. No external libraries are strictly required for the core logic, but `traceroute` should be available on your system.
+Ensure you have Python 3.x installed. 
+No external libraries are strictly required for the core logic, but `traceroute` should be available on your system.
 
 ## Usage
 Run the script from the terminal by providing a target IP:
